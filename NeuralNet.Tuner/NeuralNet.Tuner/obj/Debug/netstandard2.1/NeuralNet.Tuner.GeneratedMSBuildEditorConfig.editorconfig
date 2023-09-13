@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = NeuralNet.Tuner
+build_property.ProjectDir = C:\Users\kordellgifford\source\repos\NeuralNet.Tuner\NeuralNet.Tuner\

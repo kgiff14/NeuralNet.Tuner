@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kordellgifford\\source\\repos\\NeuralNet.Tuner\\NeuralNet.Tuner\\NeuralNet.Tuner.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kordellgifford\\source\\repos\\NeuralNet.Tuner\\NeuralNet.Tuner\\NeuralNet.Tuner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kordellgifford\\source\\repos\\NeuralNet.Tuner\\NeuralNet.Tuner\\NeuralNet.Tuner.csproj",
+        "projectName": "NeuralNet.Tuner",
+        "projectPath": "C:\\Users\\kordellgifford\\source\\repos\\NeuralNet.Tuner\\NeuralNet.Tuner\\NeuralNet.Tuner.csproj",
+        "packagesPath": "C:\\Users\\kordellgifford\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kordellgifford\\source\\repos\\NeuralNet.Tuner\\NeuralNet.Tuner\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kordellgifford\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\192.168.4.203\\share1\\IT\\NuGet": {},
+          "\\\\192.168.4.203\\share1\\IT\\UTILITYSERVICES": {},
+          "\\\\FPP-PAT01-SLC\\Users\\jangouser\\Documents\\NuGets": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://ussvcs.conservice.com/nuget/api/v2": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
