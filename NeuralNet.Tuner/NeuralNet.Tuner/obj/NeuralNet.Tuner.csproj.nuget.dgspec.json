@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kordellgifford\\source\\repos\\NeuralNet.Tuner\\NeuralNet.Tuner\\NeuralNet.Tuner.csproj": {}
+    "C:\\Users\\kordellgifford\\Source\\Repos\\NeuralNet.Tuner2\\NeuralNet.Tuner\\NeuralNet.Tuner\\NeuralNet.Tuner.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kordellgifford\\source\\repos\\NeuralNet.Tuner\\NeuralNet.Tuner\\NeuralNet.Tuner.csproj": {
+    "C:\\Users\\kordellgifford\\Source\\Repos\\NeuralNet.Tuner2\\NeuralNet.Tuner\\NeuralNet.Tuner\\NeuralNet.Tuner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kordellgifford\\source\\repos\\NeuralNet.Tuner\\NeuralNet.Tuner\\NeuralNet.Tuner.csproj",
+        "projectUniqueName": "C:\\Users\\kordellgifford\\Source\\Repos\\NeuralNet.Tuner2\\NeuralNet.Tuner\\NeuralNet.Tuner\\NeuralNet.Tuner.csproj",
         "projectName": "NeuralNet.Tuner",
-        "projectPath": "C:\\Users\\kordellgifford\\source\\repos\\NeuralNet.Tuner\\NeuralNet.Tuner\\NeuralNet.Tuner.csproj",
+        "projectPath": "C:\\Users\\kordellgifford\\Source\\Repos\\NeuralNet.Tuner2\\NeuralNet.Tuner\\NeuralNet.Tuner\\NeuralNet.Tuner.csproj",
         "packagesPath": "C:\\Users\\kordellgifford\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kordellgifford\\source\\repos\\NeuralNet.Tuner\\NeuralNet.Tuner\\obj\\",
+        "outputPath": "C:\\Users\\kordellgifford\\Source\\Repos\\NeuralNet.Tuner2\\NeuralNet.Tuner\\NeuralNet.Tuner\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kordellgifford\\AppData\\Roaming\\NuGet\\NuGet.Config",
